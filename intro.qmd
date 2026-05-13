@@ -1,0 +1,21 @@
+---
+title: " "
+---
+
+
+<div class = "center-image">
+  <img src = "images/profile_picture2.jpg" alt="Profile picture">
+</div>
+
+
+<div class = "homepage">
+## Dr. Nurbahar Usta
+</div>
+
+
+<div class = "homepage">
+trying to make sense of forests, their messy entanglements with people & politics, and how to keep them around.
+
+
+• trees • forests • people • conservation ecology • socio-ecological systems 
+</div>

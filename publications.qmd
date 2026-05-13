@@ -1,0 +1,51 @@
+---
+title: " "
+
+---
+
+## Peer-Reviewed Articles
+
+• Usta, N., & Tavşanoğlu, Ç. (2026). Stage-specific responses to warming in trojan fir across early life stages: Germination, seedling survival, and seedling growth. _Ecology and Evolution_, _16_(2), e72774.
+
+• Usta, N., Tüfekcioğlu, İ., Avdanci, B., & Tavşanoğlu, Ç. (2026). The effect of elevation on forest structure and tree community composition in trojan fir forests in kazdağları (NW anatolia, Türkiye). _Applied Ecology and Environmemtal Research_, _24_(1), 989–1002.
+
+• Alcántara, J. M., Verdú, M., Garrido, J. L., Montesinos-Navarro, A., Aizen, M. A., Alifriqui, M., Allen, D., Al-Namazi, A. A., Armas, C., Bastida, J. M., et al. (2025). Key concepts and a world-wide look at plant recruitment networks. _Biological Reviews_, _100_(3), 1127–1151.
+
+• Verdú, M., Garrido, J. L., Alcantara, J. M., Montesinos-Navarro, A., Aguilar, S., Aizen, M. A., Al-Namazi, A. A., Alifriqui, M., Allen, D., Anderson-Teixeira, K. J., et al. (2023). RecruitNet: A global database of plant recruitment networks. _Ecology_, _104_, e3923.
+
+• Usta, N., & Tavşanoğlu, Ç. (2023). Anadolu endemiği kazdağı göknarı ( _Abies nordmanniana_ (Stev.) subsp. _equi-trojani_ (Aschers. & Sint. Ex boiss) Coode et Cullen): Bildiklerimiz ve araştırma gereksinimleri. _Turkish Journal of Forestry_, _24_(3), 329–345.
+
+• Ürker, O., Usta Baykal, N., & Ada, E. (2023). Increasing temperatures can pose an opportunity to recover endemic and endangered oriental sweetgum tree ( _Liquidambar orientalis_ Mill.) from extinction. _Turkish Journal of Botany_, _47_(5), 363–371.
+
+
+
+## Book Chapters & Contributions
+
+• Usta, N. (2026). Yaşam alanından üretim odağına: Türkiye'de ormancılığın ekosistemsel dönüşümü. _beyond.istanbul_, _17_, 89-94.
+
+• Usta, N. (2026). İklim Değişikliği. In _Beşeri Bilimlerin 50 Rengi Daha: Dijital, Tıbbi, Posthüman İzler_ (pp. 351-359). Kapadokya Üniversitesi Yayınları.
+
+• Balkız, Ö., Orhon, G. A., Ateş, B., İloğlu, G., Ceyhan, T., Tosunoğlu, Z., Kartal, E., Bilgin, G. D., Güçlüsoy, H., Turak, A., Usta, N., & Yılmaz, E. (2025). Nature-culture coexistence – a spatial prioritization along the aegean seascapes in Türkiye. Yolda Initiative.
+
+• Turhan, E., Aydın, C. İ., Usta Baykal, N., & Bekar, İ. (2024). Integrating multispecies justice approach for climate risk management in forest areas of Mediterranean Europe. In _Strengthening European climate policy: Governance recommendations from innovative interdisciplinary collaborations_ (pp. 125–136). Springer.
+
+
+## Editor
+
+• [Bulletin of Ecology and Evolutionary Biology Society](https://ekoevo.org/wp-content/uploads/2026/02/EkoEvo_Bulletin_2026_ENG.pdf) - Editorial Team Member
+
+• [Veri Bilimleri için R](https://tr.r4ds.hadley.nz) - Editor of the Turkish translation for “R for Data Science by Hadley Wickham and Garrett Grolemund”
+
+
+## Conference Papers
+
+• Acar, P., & Usta Baykal, N. (2020). Climate change effects on the distribution of turkish salix species. _Bahçe_, _49_(Özel Sayı 1) 2. Uluslararası Tarım Kongresi, 159–165.
+
+
+## Thesis
+
+• Usta, N. (2026). _Kazdağları'nda göknar ormanlarının dinamikleri ve iklim değişikliğinin bu dinamikler üzerine olası etkisi_ [PhD. thesis]. Hacettepe University (Ankara, Turkey).
+
+• Usta Baykal, N. (2019). _Determining potential niche competition regions between kazdagi fir (Abies nordmanniana subsp. Equi-trojani) & Anatolian black pine (Pinus nigra subsp. pallasiana) and conservation priority areas under climate change by using Maxent algorithm_ [Master’s thesis]. Middle East Technical University (Ankara, Turkey).
+
+

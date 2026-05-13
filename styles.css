@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500&display=swap');
+
+body {
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.2rem; }
+h3 { font-size: 1.1rem; }
+
+body {color: #061E29;}
+
+h1, h2, h3, h4 {color: #1D546D;}
+
+a {color: #5F9598;}
+
+a:hover {color: #87BAC3;}
+
+
+.navbar {background-color: #f8f9fa;}
+
+.navbar-brand,
+.navbar-nav .nav-link {color: #1D546D!important;}
+
+.navbar-nav .nav-link:hover {
+  color: #87BAC3 !important;}
+
+
+
+.center-image {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.center-image img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;}
+
+.homepage {
+  text-align: center;
+  margin-top: 40px;
+}
+
+
+/* Center navbar items */
+.navbar-nav {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Optional: center the brand/title too */
+.navbar-brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - text: "Intro"
+        href: intro.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Outreach"
+        href: outreach.qmd
+      - text: "Others"
+        href: contact.qmd
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
