@@ -1,7 +1,6 @@
 ---
 title: " "
 pagetitle: "Intro - Nurbahar Usta"
-image: "images/preview.png"
 ---
 
 

@@ -3,9 +3,6 @@ project:
   output-dir: docs
 
 website:
-  site-url: "https://nurbaharusta.github.io"
-  open-graph: true
-  twitter-card: true
   navbar:
     left:
       - text: "Intro"
