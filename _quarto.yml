@@ -6,15 +6,15 @@ website:
   navbar:
     left:
       - text: "Intro"
-        href: index.qmd
+        href: index.html
       - text: "About"
-        href: about.qmd
+        href: about.html
       - text: "Publications"
-        href: publications.qmd
+        href: publications.html
       - text: "Outreach"
-        href: outreach.qmd
+        href: outreach.html
       - text: "Others"
-        href: others.qmd
+        href: others.html
     
 
 format:
