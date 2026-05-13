@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - text: "Intro"
-        href: intro.qmd
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Publications"
