@@ -13,7 +13,7 @@ website:
       - text: "Outreach"
         href: outreach.qmd
       - text: "Others"
-        href: contact.qmd
+        href: others.qmd
     
 
 format:
