@@ -5,6 +5,8 @@ pagetitle: "Outreach - Nurbahar Usta"
 
 ## Videos
 
+• Ormanlar ve Baskılar: Kazdağları Örneği - [İmalat-hane](https://www.youtube.com/watch?v=0kCx1Kod7V0&t)
+
 • Doğayı Anlamak: Ekolojide Temel Kavramlar ve Doğal Süreçlere Giriş - [Polen Ekoloji](https://youtube.com/playlist?list=PLIgVi6trgW0-diVom8mNfr5HkIJ0I-5A-&si=qyJ2M5igTzDO3Rqv)
 
 • GLOBAL FORESTS Autumn School: Dynamics of Trojan Fir & Climate Change [GIP Ecofor](https://youtu.be/opqjoBJLEwI?si=1v4xX2AXBVCqR8Rw)
@@ -28,15 +30,22 @@ pagetitle: "Outreach - Nurbahar Usta"
 • perekati-pole podcast - [bozkır kitaplığı](https://open.spotify.com/show/4Mv0TocNYxkl562f5RkgFk?si=3bfd00e12fa346e9)
 
 
-## Lectures (Invited)
+## Lectures & Talks
 
-•  AP Biology & AP Environmental Science (2025 - 2026) - Fırat İlhan Schools, Ankara, Turkey
+•  (T) Bir Başka Ağaç: Ligninden Keresteye Ormanların Tarihi (2026) - Gümüşlük Akademisi, Muğla, Turkey
 
-•  Science, Ethics and People (2020 - 2022) - TOBB University, Ankara, Turkey
+•  (L) AP Biology & AP Environmental Science (2025 - 2026) - Fırat İlhan Schools, Ankara, Turkey
+
+•  (T) Biyoçeşitlilik Unsuru Olarak Kazdağı Göknarı (2023) ODTÜ Biyoçeşitlilik Günleri
+
+•  (L) Science, Ethics and People (2020 - 2022) - TOBB University, Ankara, Turkey
 
 
 ## Workshops
 
 • Introduction to R Programming for Natural Sciences - Bilgecan Şen, İsmail Bekar, Nurbahar Usta - (2021, 2022, 2023) - Ecology and Evolutionary Biology Society, Turkey
+
+
+
 
 
