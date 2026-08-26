@@ -5,8 +5,6 @@ pagetitle: "Outreach - Nurbahar Usta"
 
 ## Videos
 
-• Ormanların Hazfızası - [Doğa Dedektifi](https://open.spotify.com/episode/1XOgzrSCN45cuqb7GZRF5r?si=8e4ba9c7cfa14427)
-
 • Ormanlar ve Baskılar: Kazdağları Örneği -  [İmalat-hane](https://www.youtube.com/watch?v=0kCx1Kod7V0&t)
 
 • Doğayı Anlamak: Ekolojide Temel Kavramlar ve Doğal Süreçlere Giriş - [Polen Ekoloji](https://youtube.com/playlist?list=PLIgVi6trgW0-diVom8mNfr5HkIJ0I-5A-&si=qyJ2M5igTzDO3Rqv)
@@ -17,6 +15,8 @@ pagetitle: "Outreach - Nurbahar Usta"
 
 
 ## Podcasts (Guest)
+
+• Ormanların Hazfızası - [Doğa Dedektifi](https://open.spotify.com/episode/1XOgzrSCN45cuqb7GZRF5r?si=8e4ba9c7cfa14427)
 
 • Deconstruction: Art and Ecology - [Are Project & Art Elsewhere London](https://www.youtube.com/watch?v=G84NR5ZQjik)
 
